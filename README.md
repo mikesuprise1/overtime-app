@@ -15,4 +15,4 @@ Post -> date:date rationale:text
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-Bootstrap -> formatting
+- Bootstrap -> formatting
