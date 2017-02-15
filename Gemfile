@@ -17,6 +17,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.3.0'
 gem 'bourbon', '~> 4.3', '>= 4.3.2'
+gem 'pundit', '~> 1.1'
 
 group :production do
 end
