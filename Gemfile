@@ -19,6 +19,7 @@ gem 'administrate', '~> 0.3.0'
 gem 'bourbon', '~> 4.3', '>= 4.3.2'
 gem 'pundit', '~> 1.1'
 gem 'twilio-ruby', '~> 4.13'
+gem 'dotenv-rails', :groups => [:development, :test]
 
 group :production do
 end
