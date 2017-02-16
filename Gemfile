@@ -18,6 +18,7 @@ gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.3.0'
 gem 'bourbon', '~> 4.3', '>= 4.3.2'
 gem 'pundit', '~> 1.1'
+gem 'twilio-ruby', '~> 4.13'
 
 group :production do
 end
