@@ -16,10 +16,3 @@
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 
-## UI:
-- x Bootstrap -> formatting
-- x Icons from glyphicons
-- x Update the styles for forms
-
-## Refactor TODOS:
-- x Refactor user association integration test in post_spec
